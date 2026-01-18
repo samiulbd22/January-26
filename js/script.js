@@ -96,7 +96,7 @@ const members = {
         garage_cost     :0,
         running_payable :3210,
         running_paid    :2000,
-        running_meal    :16,
+        running_meal    :18,
         // method 
         preMonth,
         runningDiningCost,
@@ -116,7 +116,7 @@ const members = {
         garage_cost     :0,
         running_payable :2667,
         running_paid    :4500,
-        running_meal    :21,
+        running_meal    :24,
         // method calling
         preMonth,
         runningDiningCost,
@@ -136,7 +136,7 @@ const members = {
         garage_cost     :0,
         running_payable :4500,
         running_paid    :7000,
-        running_meal    :29,
+        running_meal    :33,
         // method calling
         preMonth,
         runningDiningCost,
@@ -156,7 +156,7 @@ const members = {
         garage_cost     :0,
         running_payable :3954,
         running_paid    :0,
-        running_meal    :16,
+        running_meal    :20,
         // method calling
         preMonth,
         runningDiningCost,
@@ -176,7 +176,7 @@ const members = {
         garage_cost     :0,
         running_payable :3983,
         running_paid    :6500,
-        running_meal    :32,
+        running_meal    :36,
         // method calling
         preMonth,
         runningDiningCost,
@@ -217,7 +217,7 @@ const members = {
         garage_cost     :0,
         running_payable :4110,
         running_paid    :3500,
-        running_meal    :5,
+        running_meal    :7,
         // method calling
         preMonth,
         runningDiningCost,
@@ -237,7 +237,7 @@ const members = {
         garage_cost     :0,
         running_payable :3409,
         running_paid    :4000,
-        running_meal    :7,
+        running_meal    :9,
         // method calling
         preMonth,
         runningDiningCost,
@@ -279,7 +279,7 @@ const members = {
         garage_cost     :0,
         running_payable :2265,
         running_paid    :3000,
-        running_meal    :29,
+        running_meal    :33,
         // method calling
         preMonth,
         runningDiningCost,
