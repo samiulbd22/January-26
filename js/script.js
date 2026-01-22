@@ -96,7 +96,7 @@ const members = {
         garage_cost     :0,
         running_payable :3210,
         running_paid    :2500,
-        running_meal    :21,
+        running_meal    :22,
         // method 
         preMonth,
         runningDiningCost,
@@ -116,7 +116,7 @@ const members = {
         garage_cost     :0,
         running_payable :2667,
         running_paid    :4500,
-        running_meal    :27,
+        running_meal    :28,
         // method calling
         preMonth,
         runningDiningCost,
@@ -156,7 +156,7 @@ const members = {
         garage_cost     :0,
         running_payable :3954,
         running_paid    :3000,
-        running_meal    :23,
+        running_meal    :25,
         // method calling
         preMonth,
         runningDiningCost,
@@ -176,7 +176,7 @@ const members = {
         garage_cost     :0,
         running_payable :3983,
         running_paid    :6500,
-        running_meal    :41,
+        running_meal    :43,
         // method calling
         preMonth,
         runningDiningCost,
@@ -217,7 +217,7 @@ const members = {
         garage_cost     :0,
         running_payable :4110,
         running_paid    :3500,
-        running_meal    :11,
+        running_meal    :12,
         // method calling
         preMonth,
         runningDiningCost,
@@ -236,8 +236,8 @@ const members = {
         stay_cost       :3500,
         garage_cost     :0,
         running_payable :3409,
-        running_paid    :4000,
-        running_meal    :12,
+        running_paid    :4500,
+        running_meal    :14,
         // method calling
         preMonth,
         runningDiningCost,
@@ -256,9 +256,9 @@ const members = {
         // running month
         stay_cost       :2400,
         garage_cost     :0,
-        running_payable :0,
-        running_paid    :0,
-        running_meal    :0,
+        running_payable :2390,
+        running_paid    :2000,
+        running_meal    :3,
         // method calling
         preMonth,
         runningDiningCost,
@@ -279,7 +279,7 @@ const members = {
         garage_cost     :0,
         running_payable :2265,
         running_paid    :3000,
-        running_meal    :38,
+        running_meal    :40,
         // method calling
         preMonth,
         runningDiningCost,
