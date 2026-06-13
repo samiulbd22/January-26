@@ -246,19 +246,19 @@ const members = {
     },
     
     "01920056090":{
-        name:"Md.Sourov",
+        name:"Md. Zahirul Islam",
         //  join:"new",
         // pre-previous month list
-        post_payable        :2400,
-        previous_paid       :0,
-        previous_dining_cost:0,
-        payment             :{"11/01/26-Cash":1000,"19/01/26-Cash":500,"29/01/26-Cash":1500},
+        post_payable        :3138,
+        previous_paid       :6000,
+        previous_dining_cost:2135,
+        payment             :{"11/01/26-Cash":2000},
         // running month
         stay_cost       :2400,
         garage_cost     :0,
-        running_payable :2400,
-        running_paid    :3000,
-        running_meal    :27,
+        running_payable :3138,
+        running_paid    :6000,
+        running_meal    :25,
         // method calling
         preMonth,
         runningDiningCost,
